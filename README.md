@@ -10,7 +10,7 @@ Your application will also allow your user to create a tile.
 
 The initial content is described as a list of tiles in the attached JSON file. Each tile has multiple properties but you may only consider using tile.title and tile.tags. Other are optionnal but we are eager to see your creativity!
 
-!(https://raw.githubusercontent.com/whatever-company/challenge/master/frontend/Screen%20Shot%202015-03-24%20at%2013.57.16.png)
+![screenshot](https://raw.githubusercontent.com/whatever-company/challenge/master/frontend/Screen%20Shot%202015-03-24%20at%2013.57.16.png)
 
 ##Technical specifications
 
