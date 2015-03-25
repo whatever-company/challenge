@@ -20,7 +20,7 @@ The right column allows to filter content in the first box. The second box allow
 
 We are asking you to create a private (or somewhat secret) github repository with your code. We strongly recommend the use of an existing framework surch as AngularJS or React.
 
-We expect the code to be readable and to have tests.
+We expect the code to be readable and to have unit tests. We recommand Karma+Jasmine but you can use MochaJS or the framework of your choice.
 
 In order to see how you work, we are interested by seeing each commits. A big dump of your project to github in one commit is not a good idea.
 
