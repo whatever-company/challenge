@@ -1,5 +1,7 @@
 #Knowledge Plaza Front-End Challenge
 
+Knowledge Plaza, a fun Belgian startup, is looking for talents to join the team and help build the best social network for companies. Want to join? Let's try this little challenge!
+
 The goal of this challenge is to learn, to have fun and to test if you would have fun working at Knowledge Plaza. If you apply for a Junior position, the code you will write is a lot less important than the way you approach an unknown problem.
 
 ##Description of the challenge
@@ -23,4 +25,6 @@ We are asking you to create a private (or somewhat secret) github repository wit
 We expect the code to be readable and to have unit tests. We recommand Karma+Jasmine but you can use MochaJS or the framework of your choice.
 
 In order to see how you work, we are interested by seeing each commits. A big dump of your project to github in one commit is not a good idea.
+
+Afterward, send a link to your repository to l.dricot@knowledgeplaza.net.
 
