@@ -27,6 +27,6 @@ Styling: we recommend you use [Styled Components](https://www.styled-components.
 
 ## Project structure:
 
-We recommend that you use [Create React App](https://github.com/facebookincubator/create-react-app), either locally or within [CodeSandbox](https://codesandbox.io/). Note that it might be tricky to setup these for relay-modern. Babel/Webpack configuration is not the point of this exercice.
+We recommend that you use [Create React App](https://github.com/facebookincubator/create-react-app), either locally or within [CodeSandbox](https://codesandbox.io/). Note that it's probably difficult to setup these for relay-modern, Apollo or `fetch` might be easier to use for a small project like this. Babel/Webpack configuration is not the point of this exercice.
 
 Please publish your solution to the challenge on github.com or codesandbox.io and email t.geimer@whatever-company.com with a link.
